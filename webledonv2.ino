@@ -8,8 +8,8 @@
 U8G2_SSD1306_128X64_NONAME_F_SW_I2C 
 u8g2(U8G2_R0, /* clock=*/ 14, /* data=*/ 12, U8X8_PIN_NONE);
 // Configração do WiFi
-const char* ssid = "HUAWEI-B311-3CD2";  // SSID Wifi
-const char* password = "E4MHNJ5BJGM";  // Senha Wifi
+const char* ssid = "##########";  // SSID Wifi
+const char* password = "#############";  // Senha Wifi
 
 // Variáveis de Server e Status do LED
 ESP8266WebServer server(80);
